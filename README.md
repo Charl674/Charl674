@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Haick</h1>
-<h3 align="center">A Data Scientist & Cloud Engineer</h3>
+<h3 align="center">An Analytics Engineer</h3>
 
-- 🔭 I’m currently working on **Credit Risk Modelling**
+- 🔭 I’m currently working on **LoanLens - Live Credit Risk Intelligence**
 
 - 📫 How to reach me **itguru674@gmail.com**
 
